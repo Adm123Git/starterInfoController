@@ -1,0 +1,34 @@
+{
+  "properties": [
+    {
+      "name": "config-file.contour",
+      "type": "java.lang.String",
+      "description": "Contour name."
+    },
+    {
+      "name": "config-file.version",
+      "type": "java.lang.String",
+      "description": "Configuration file version."
+    },
+    {
+      "name": "info-controller.end-point.version",
+      "type": "java.lang.Boolean",
+      "description": "EndPoint 'version' enable state."
+    },
+    {
+      "name": "info-controller.end-point.ping",
+      "type": "java.lang.Boolean",
+      "description": "EndPoint 'ping' enable state."
+    },
+    {
+      "name": "info-controller.end-point.state",
+      "type": "java.lang.Boolean",
+      "description": "EndPoint 'state' enable state."
+    },
+    {
+      "name": "info-controller.end-point.selftest",
+      "type": "java.lang.Boolean",
+      "description": "EndPoint 'selftest' enable state."
+    }
+  ]
+}

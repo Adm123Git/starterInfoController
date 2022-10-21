@@ -1,0 +1,11 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  ru.adm123.starterInfo.rest.EndPointVersion,\
+  ru.adm123.starterInfo.rest.EndPointPing,\
+  ru.adm123.starterInfo.rest.EndPointState,\
+  ru.adm123.starterInfo.rest.EndPointSelfTest,\
+  ru.adm123.starterInfo.service.impl.AppInfoServiceDefault,\
+  ru.adm123.starterInfo.provider.impl.AppNameProviderStub,\
+  ru.adm123.starterInfo.provider.impl.AppVersionProviderStub,\
+  ru.adm123.starterInfo.provider.impl.ContactProviderDefault,\
+  ru.adm123.starterInfo.provider.impl.AppFailedTestProviderDefault,\
+  ru.adm123.starterInfo.provider.impl.EnvironmentProviderDefault
